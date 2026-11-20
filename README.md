@@ -155,6 +155,14 @@ This project demonstrates the application of Python, SQL, and Power BI in a prac
 
 It provides experience in data cleaning, exploratory analysis, SQL querying, business insight generation, and interactive dashboard development.
 
+## Dataset Source
+
+- **Source:** Kaggle
+- **Dataset:** Manufacturing Predictive Maintenance Dataset
+- **Description:** Manufacturing machine sensor measurements, operating conditions, and failure-related information.
+
+*Note: Add the original Kaggle dataset URL here so readers can access the source.*
+
 ## Author
 
 **Ritesh Raj**
