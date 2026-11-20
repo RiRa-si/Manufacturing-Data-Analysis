@@ -161,7 +161,9 @@ It provides experience in data cleaning, exploratory analysis, SQL querying, bus
 - **Dataset:** Manufacturing Predictive Maintenance Dataset
 - **Description:** Manufacturing machine sensor measurements, operating conditions, and failure-related information.
 
+## Dashboard Preview
 
+[Click here to view the Power BI Dashboard](Screenshots/powerbi)
 
 ## Author
 
